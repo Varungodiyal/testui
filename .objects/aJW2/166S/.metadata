@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "166S2k1u8kOKwEAT-lOGIA",
+  "Reference": "hn2jrQaXeU-ZNNC7_L6W4g/166S2k1u8kOKwEAT-lOGIA",
+  "ParentRef": "hn2jrQaXeU-ZNNC7_L6W4g/aJW29XXi20SXVVvzK4v1YQ",
+  "Created": "2025-12-05T10:14:37.406427Z",
+  "Updated": "2025-12-05T10:14:37.406427Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
